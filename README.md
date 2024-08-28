@@ -1,8 +1,10 @@
-## Hi there, I'm Chris 👋
 <div align="center">
-    <h1>Welcome to My Project</h1>
-    <p>This project is an example of how to center text in a GitHub README.</p>
+    <h2>Hi there, I'm Chris 👋</h1>
 </div>
+
+👨🏻‍💻 Software Engineer trying to build technology that benefits people that need it the most <br />
+🧑🏻‍🎓 Masters in C.S @ Northeastern University
+
 
 <!--
 **Chr0m0some/Chr0m0some** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
