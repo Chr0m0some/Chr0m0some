@@ -4,8 +4,8 @@
 
 👨🏻‍💻 Software Engineer trying to build technology that benefits people that need it the most <br />
 🧑🏻‍🎓 Masters in C.S @ Northeastern University <br />
-[![Chris` GitHub stats](https://github-readme-stats.vercel.app/api?username=Chr0m0some)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr0m0some)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Chr0m0some/Chr0m0some** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
