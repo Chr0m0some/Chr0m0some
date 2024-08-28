@@ -4,6 +4,7 @@
 
 👨🏻‍💻 Software Engineer trying to build technology that benefits people that need it the most <br />
 🧑🏻‍🎓 Masters in C.S @ Northeastern University
+[![Chris` GitHub stats](https://github-readme-stats.vercel.app/api?username=Chr0m0some)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
