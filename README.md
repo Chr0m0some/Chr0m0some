@@ -2,7 +2,7 @@
     <h2>Hi there, I'm Chris 👋</h1>
 </div>
 
-👨🏻‍💻 Software Engineer trying to build technology that benefits people that need it the most <br />
+👨🏻‍💻 Software Engineer learning how to build products from the ground that give value to people's lives <br />
 🧑🏻‍🎓 Masters in C.S @ Northeastern University <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr0m0some)](https://github.com/anuraghazra/github-readme-stats)
